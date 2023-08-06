@@ -1,6 +1,8 @@
 # cyber_llama
 Open source robotic llama
 
+![cyber_llama_0 5](https://github.com/robertojguerra/cyber_llama/assets/3515329/56015672-d660-499e-ac64-224b8506fa5a)
+
 The CyberLlama project was started to help everyone in getting their own robotic pet, using more available materials and being esier to build than the other dogs, cats, spiders, etc.
 
 I maximized the use of open source components, so that no body would have a barrier of entry and participate actively.
@@ -20,3 +22,5 @@ There will be a head with 2 degrees of and a mouth.
 The joints are meant to be snap-click-together, and the use of glue or screws might be acceptable if it provides great advantages.
 
 Eveybody with an interest in robotics, mechanics or circuits, is welcome to fork this project and continue development.
+
+![Llama-in-Machu-Picchu-Peru](https://github.com/robertojguerra/cyber_llama/assets/3515329/66acb790-04fa-448b-be5a-ca0050043d42)
